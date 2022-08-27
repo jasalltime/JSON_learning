@@ -1,0 +1,21 @@
+{
+    "Resources":[
+        {"link":"https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#test_your_skills!","website-name":"MDN-WebDocs"},
+
+        {"link":"https://www.w3schools.com/js/js_json_parse.asp","website-name":"W3Schools"}
+    ],
+
+    "in":"Vaheguru",
+    "out":"Vaheguru",
+    "saadhsangat":[
+    {
+        "twoWings":["Sewa","Simran"],
+        "youShouldBeWith":"Vaheguru",
+        "yourDhyaan":["simran","gurubani"]
+    }
+    ],
+    "everywhere":"Vaheguru"
+
+
+
+}
